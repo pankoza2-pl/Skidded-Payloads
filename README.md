@@ -1,2 +1,2 @@
 # Payloads
-This is GDI payloads
+This time, I'll gonna make GDI payloads (not malwares)! Enjoy =)
